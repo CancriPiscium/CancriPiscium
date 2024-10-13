@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm moneV</h1>
+<h1 align="center">Hi 👋, I'm Venom</h1>
 <h3 align="center">Tech Enthusiast | Data & Information Management Major | Lifelong Learner</h3>
 
 <h3 align="left">Connect with me:</h3>
